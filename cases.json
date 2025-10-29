@@ -1,28 +1,30 @@
 {
-  "Recoil case": {
-    "name": "Recoil case",
-    "history": [
-      {
-        "date": "2025-10-28",
-        "price": 0.43
-      }
-    ]
-  },
   "Fracture Case": {
     "name": "Fracture Case",
     "history": [
       {
-        "date": "2025-10-28",
-        "price": 0.57
-      }
-    ]
-  },
-  "Paris 2023 Challengers Sticker Capsule": {
-    "name": "Paris 2023 Challengers Sticker Capsule",
-    "history": [
+        "date": "2025-10-29",
+        "price": 0.53
+      },
       {
-        "date": "2025-10-28",
-        "price": 0.13
+        "date": "2025-10-29",
+        "price": 0.54
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.53
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.54
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.54
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.53
       }
     ]
   },
@@ -30,8 +32,28 @@
     "name": "Kilowatt Case",
     "history": [
       {
-        "date": "2025-10-28",
-        "price": 0.43
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.38
       }
     ]
   },
@@ -39,8 +61,57 @@
     "name": "Revolution Case",
     "history": [
       {
-        "date": "2025-10-28",
-        "price": 0.5
+        "date": "2025-10-29",
+        "price": 0.41
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.41
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.41
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.36
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.41
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.41
+      }
+    ]
+  },
+  "Recoil Case": {
+    "name": "Recoil Case",
+    "history": [
+      {
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.38
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.37
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.37
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.37
+      },
+      {
+        "date": "2025-10-29",
+        "price": 0.37
       }
     ]
   }

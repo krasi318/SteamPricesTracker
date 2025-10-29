@@ -1,0 +1,47 @@
+{
+  "Recoil case": {
+    "name": "Recoil case",
+    "history": [
+      {
+        "date": "2025-10-28",
+        "price": 0.43
+      }
+    ]
+  },
+  "Fracture Case": {
+    "name": "Fracture Case",
+    "history": [
+      {
+        "date": "2025-10-28",
+        "price": 0.57
+      }
+    ]
+  },
+  "Paris 2023 Challengers Sticker Capsule": {
+    "name": "Paris 2023 Challengers Sticker Capsule",
+    "history": [
+      {
+        "date": "2025-10-28",
+        "price": 0.13
+      }
+    ]
+  },
+  "Kilowatt Case": {
+    "name": "Kilowatt Case",
+    "history": [
+      {
+        "date": "2025-10-28",
+        "price": 0.43
+      }
+    ]
+  },
+  "Revolution Case": {
+    "name": "Revolution Case",
+    "history": [
+      {
+        "date": "2025-10-28",
+        "price": 0.5
+      }
+    ]
+  }
+}
